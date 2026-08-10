@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 I build full-stack web and mobile applications with React, Node/Express, Spring Boot, MongoDB, Firebase, PostgreSQL, and SQL.  
@@ -146,3 +144,4 @@ CGPA: 8.11/10 | Graduated: April 2025
 <p align="center">
   <i>Building practical software with strong engineering fundamentals.</i>
 </p>
+
