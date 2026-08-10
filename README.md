@@ -21,7 +21,7 @@
 ## About Me
 
 I build full-stack web and mobile applications with React, Node/Express, Spring Boot, MongoDB, Firebase, PostgreSQL, and SQL.  
-I currently work on production applications and enjoy turning ideas into reliable, scalable software.
+I currently work on production applications and enjoy turning ideas into reliable, scalable software — from client business sites to full e-commerce platforms with admin and vendor dashboards.
 
 - Computer Science graduate, B.Tech 2025
 - Based in Hyderabad, India
@@ -69,6 +69,30 @@ Generative AI · LLMs · RAG · Prompt Engineering · Model Evaluation · Vector
 
 ---
 
+## Live Projects / Client Work
+
+### 🛒 ZipCart Groceries — Full E-Commerce Platform
+[Website](https://zipcartgroceries.com/) · [Admin Panel](https://admin.zipcartgroceries.com/login) · [Vendor Panel](https://vendor.zipcartgroceries.com/login)  
+End-to-end grocery e-commerce platform with a customer storefront, a dedicated admin dashboard, and a vendor dashboard for multi-vendor product and order management.
+
+### 🏏 Shaankari Cricket Academy
+[Website](https://shaankaricricketacademy.com/)  
+Business website for a cricket coaching academy — programs, batches, and enrollment info for prospective students.
+
+### 🧘 Gaman Rehab
+[Website](https://www.gamanrehab.com/)  
+Website for a rehabilitation and physiotherapy center, showcasing services, treatments, and contact/booking details.
+
+### ⚡ Mithra Energies
+[Website](https://mithraenergies.com/)  
+Corporate website for an energy sector company, presenting services, projects, and company information.
+
+### 💼 Leadora Systems
+[Website](https://www.leadorasystems.com/)  
+Business website for a systems/technology company, covering services and offerings.
+
+---
+
 ## Featured Projects
 
 ### AI-Powered RAG Assistant
@@ -77,11 +101,11 @@ Python · FastAPI · LangChain · Gemini · FAISS · React
 - Added PDF ingestion, chunking, embeddings, and semantic retrieval
 - Integrated LLM-based response generation through FastAPI
 
-### Grocery & E-Commerce Platform
+### ZipCart Groceries — E-Commerce Platform
 React.js · React Native · Node.js · Spring Boot · MySQL · MongoDB · Firebase
-- Built web and mobile shopping experiences
-- Implemented product, order, and user flows
-- Worked on scalable backend APIs and database integration
+- Built customer storefront plus separate admin and vendor dashboards
+- Implemented product, order, and user flows across multiple databases
+- Worked on scalable backend APIs and role-based access
 
 ### Portfolio Website
 React · GitHub Pages
