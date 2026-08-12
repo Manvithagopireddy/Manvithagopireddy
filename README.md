@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopireddy Manvitha</h1>
-<h3 align="center">Full Stack Developer · AI-Assisted Engineering · MERN & React Native</h3>
+<h3 align="center">Full Stack Developer • AI Engineer • Data Analytics • Quality Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gopireddymanvitha/" target="_blank">
@@ -16,132 +16,139 @@
   </a>
 </p>
 
-## About Me
+---
 
-I build full-stack web and mobile applications with React, Node/Express, Spring Boot, MongoDB, Firebase, PostgreSQL, and SQL.  
-I currently work on production applications and enjoy turning ideas into reliable, scalable software — from client business sites to full e-commerce platforms with admin and vendor dashboards.
+## 👋 About Me
 
-- Computer Science graduate, B.Tech 2025
-- Based in Hyderabad, India
-- Focused on full-stack development and AI-assisted engineering
-- Interested in building real-world products, APIs, and intelligent systems
+I'm a **Full Stack Developer** with experience building production-ready web and mobile applications, AI-powered solutions, business dashboards, and scalable backend systems.
+
+I enjoy solving real-world problems through clean architecture, reliable APIs, data-driven insights, and modern AI technologies.
+
+- 🎓 B.Tech in Computer Science (2025)
+- 📍 Hyderabad, India
+- 💼 Full Stack Development | AI Engineering | Data Analytics | Quality Engineering
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-**Languages**  
-JavaScript · TypeScript · Python · Java · SQL
+### Languages
+JavaScript  • Python • Java • SQL
 
-**Frontend**  
-React.js · React Native · HTML5 · CSS3 · Tailwind CSS · Vite
+### Frontend
+React.js • React Native • HTML5 • CSS3 • Tailwind CSS 
 
-**Backend**  
-Node.js · Express.js · Spring Boot 3 · Socket.IO · REST APIs · FastAPI
+### Backend
+Node.js • Express.js • Spring Boot • FastAPI • REST APIs • Socket.IO
 
-**Databases & Cloud**  
-MongoDB · PostgreSQL · MySQL · Firebase · AWS
+### Databases
+MongoDB • PostgreSQL • MySQL • Firebase
 
-**Tools & Workflow**  
-Git · GitHub · GitHub Actions · Postman · CI/CD · Debugging · Testing
+### AI
+LLMs • Generative AI • RAG • LangChain  • AI Agents • Prompt Engineering • MCP • Vector Databases • FAISS  • Semantic Search • Google Gemini API 
 
-**AI / Learning**  
-Generative AI · LLMs · RAG · Prompt Engineering · Model Evaluation · Vector Databases
+### Data Analytics
+Power BI • Tableau • SQL Analytics • Dashboard Development • KPI Reporting • Data Visualization • Excel
 
----
+### Testing & QA
+Manual Testing • Functional Testing • Regression Testing • Unit Testing • End-to-End (E2E) Testing • User Acceptance Testing (UAT) • API Testing • PyTest • Postman • Debugging
 
-## Experience
-
-**AI Engineer (Full Stack) — BristleTech**  
-*Sep 2025 - Present · Hyderabad, India*
-- Build scalable web and mobile apps with MERN and React Native
-- Work across MongoDB, Firebase, and PostgreSQL in multi-database setups
-- Use GitHub Actions and CI/CD for reliable delivery
-- Ship and maintain production apps
-
-**Full Stack Developer Intern — Brain O Vision**  
-*2024 · Hyderabad, India*
-- Built real-time chat features using Socket.IO
-- Secured REST APIs and WebSocket connections with JWT authentication
-- Delivered features in an agile environment
+### Cloud & DevOps
+ Git • GitHub • GitHub Actions • CI/CD 
 
 ---
 
-## Live Projects / Client Work
+## 💼 Experience
 
-### 🛒 ZipCart Groceries — Full E-Commerce Platform
-[Website](https://zipcartgroceries.com/) · [Admin Panel](https://admin.zipcartgroceries.com/login) · [Vendor Panel](https://vendor.zipcartgroceries.com/login)  
-End-to-end grocery e-commerce platform with a customer storefront, a dedicated admin dashboard, and a vendor dashboard for multi-vendor product and order management.
+### AI Engineer (Full Stack) — BristleTech
+**Sep 2025 – Present | Hyderabad**
 
-### 🏏 Shaankari Cricket Academy
-[Website](https://shaankaricricketacademy.com/)  
-Business website for a cricket coaching academy — programs, batches, and enrollment info for prospective students.
-
-### 🧘 Gaman Rehab
-[Website](https://www.gamanrehab.com/)  
-Website for a rehabilitation and physiotherapy center, showcasing services, treatments, and contact/booking details.
-
-### ⚡ Mithra Energies
-[Website](https://mithraenergies.com/)  
-Corporate website for an energy sector company, presenting services, projects, and company information.
-
-### 💼 Leadora Systems
-[Website](https://www.leadorasystems.com/)  
-Business website for a systems/technology company, covering services and offerings.
+- Built scalable web and mobile applications using React, React Native, Node.js, Express.js, and Spring Boot.
+- Developed secure REST APIs and worked with MongoDB, PostgreSQL, MySQL, and Firebase.
+- Built AI-powered applications using RAG, LangChain, LangGraph, LLMs, and vector databases.
+- Developed business dashboards and performed SQL-based data analysis for operational reporting and KPIs.
+- Executed Manual, Functional, Regression, Unit, End-to-End (E2E), API, and UAT testing to ensure application quality.
+- Automated backend testing using PyTest and participated in CI/CD workflows using GitHub Actions.
+- Collaborated with cross-functional teams in Agile development environments.
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### AI-Powered RAG Assistant
-Python · FastAPI · LangChain · Gemini · FAISS · React
-- Built a retrieval-augmented assistant for document Q&A
-- Added PDF ingestion, chunking, embeddings, and semantic retrieval
-- Integrated LLM-based response generation through FastAPI
+### 🤖 AI-Powered RAG Assistant
+**Python • FastAPI • LangChain • LangGraph • Gemini • FAISS**
 
-### ZipCart Groceries — E-Commerce Platform
-React.js · React Native · Node.js · Spring Boot · MySQL · MongoDB · Firebase
-- Built customer storefront plus separate admin and vendor dashboards
-- Implemented product, order, and user flows across multiple databases
-- Worked on scalable backend APIs and role-based access
+- Built a Retrieval-Augmented Generation (RAG) assistant for document intelligence.
+- Implemented document ingestion, embeddings, semantic search, and LLM-powered responses.
+- Developed FastAPI services for scalable AI workflows.
 
-### Portfolio Website
-React · GitHub Pages
-- Personal portfolio with project showcase and contact links
-- Clean responsive design for recruiters and hiring managers
+### 📊 Business Analytics Dashboard
+**Power BI • SQL • PostgreSQL**
+
+- Built interactive dashboards for business reporting and KPI tracking.
+- Performed SQL analysis and created visualizations to support business decisions.
 
 ---
 
-## Certifications
+## 🏢 Client Projects
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Google Create Your First Gemini Enterprise Application
-- GitHub Copilot for Beginners: Write Software With AI
-- edX Professional Certificate – Communication Skills and Teamwork
-- Google Data Analytics
+- 🛒 **ZipCart Groceries** — [Live Website](https://zipcartgroceries.com)
+- 🏏 **Shaankari Cricket Academy** — [Live Website](https://shaankaricricketacademy.com)
+- 🧘 **Gaman Rehab** — [Live Website](https://www.gamanrehab.com)
+- ⚡ **Mithra Energies** — [Live Website](https://mithraenergies.com)
+- 💼 **Leadora Systems** — [Live Website](https://www.leadorasystems.com)
+
+---
+
+## 🎯 Core Expertise
+
+- Full Stack Development
+- AI Engineering
+- RAG Applications
+- AI Agents
+- Database Design
+- Data Analytics
+- Business Dashboards
+- Manual & Automated Testing
+- Quality Assurance
+- CI/CD
+- Agile Development
+
+---
+
+## 📜 Certifications
+
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure Data Fundamentals (DP-900)
+- Google Gemini Enterprise Application
+- GitHub Copilot for Beginners
+- Google Data Analytics Professional Certificate
+- edX Professional Certificate – Communication Skills & Teamwork
 - NPTEL Certifications
 
 ---
 
-## Education
+## 🎓 Education
 
-**Bachelor of Technology in Computer Science and Engineering**  
-Sree Venkateshwara College of Engineering  
-CGPA: 8.11/10 | Graduated: April 2025
+**Bachelor of Technology – Computer Science & Engineering**
+
+Sree Venkateshwara College of Engineering
+**CGPA:** 8.11/10 • **Graduated:** April 2025
 
 ---
 
-## Contact
+## 📫 Connect
 
-- Email: gopireddymanvitha@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gopireddymanvitha/
-- GitHub: https://github.com/Manvithagopireddy
-- Portfolio: https://manvithagopireddy.github.io/Manvithaportfolio/
+📧 **Email:** gopireddymanvitha@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/gopireddymanvitha/
+
+💻 **GitHub:** https://github.com/Manvithagopireddy
+
+🌐 **Portfolio:** https://manvithagopireddy.github.io/Manvithaportfolio/
 
 ---
 
 <p align="center">
-  <i>Building practical software with strong engineering fundamentals.</i>
+  <i>Building scalable software, AI-powered applications, and data-driven solutions.</i>
 </p>
-
