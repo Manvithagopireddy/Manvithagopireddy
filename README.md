@@ -1,4 +1,4 @@
-<h1 align="center">Gopireddy Manvitha</h1>
+<p align="center"><img src="assets/profile-banner.svg" alt="Gopireddy Manvitha — Software Engineer, Full Stack and Generative AI" width="100%"></p>
 <p align="center"><strong>Software Engineer · Full-Stack Development · Generative AI</strong></p>
 <p align="center">Building reliable applications, intelligent systems and testable software.</p>
 <p align="center">
