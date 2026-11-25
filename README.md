@@ -1,154 +1,64 @@
-<h1 align="center">Hi 👋, I'm Gopireddy Manvitha</h1>
-<h3 align="center">Full Stack Developer • AI Engineer • Data Analytics • Quality Engineering</h3>
-
+<h1 align="center">Gopireddy Manvitha</h1>
+<p align="center"><strong>Software Engineer · Full-Stack Development · Generative AI</strong></p>
+<p align="center">Building reliable applications, intelligent systems and testable software.</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gopireddymanvitha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gopireddymanvitha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Manvithagopireddy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://manvithagopireddy.github.io/Manvithaportfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/gopireddymanvitha/">LinkedIn</a> ·
+<a href="https://manvithagopireddy.github.io/Manvithaportfolio/">Portfolio</a> ·
+<a href="https://leetcode.com/u/gLJ2E1bNWI/">LeetCode</a> ·
+<a href="mailto:gopireddymanvitha@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👋 About Me
+## Selected engineering projects
 
-I'm a **Full Stack Developer** with experience building production-ready web and mobile applications, AI-powered solutions, business dashboards, and scalable backend systems.
+| Project | Engineering focus | Stack |
+|---|---|---|
+| [RAGBOT](https://github.com/Manvithagopireddy/RAGBOT) | Hybrid document retrieval, reranking, cited answers and streaming | Python, FastAPI, FAISS, React, TypeScript |
+| [EduNexus](https://github.com/Manvithagopireddy/School-management-system) | School management, REST services and algorithmic features | Java, Spring Boot, React, SQLite |
+| [TestingPro](https://github.com/Manvithagopireddy/TestingPro) | API validation, integration tests, BDD and continuous integration | Node.js, Jest, Postman, Cucumber |
+| [AerospaceBot](https://github.com/Manvithagopireddy/AerospaceBot) | Domain-focused space and astronomy assistant with conversation persistence | JavaScript, Express, Gemini, SQLite |
+| [Olist E-commerce Analysis](https://github.com/Manvithagopireddy/Olist_Ecommerce_Analysis) | Marketplace analytics, logistics and customer satisfaction | SQL, Python, Power BI |
+| [Developer Portfolio](https://github.com/Manvithagopireddy/Manvithaportfolio) | Responsive portfolio and automated deployment | React, Vite, GitHub Pages |
 
-I enjoy solving real-world problems through clean architecture, reliable APIs, data-driven insights, and modern AI technologies.
+Explore each repository for its implementation, documentation and available test or build instructions.
 
-- 🎓 B.Tech in Computer Science (2025)
-- 📍 Hyderabad, India
-- 💼 Full Stack Development | AI Engineering | Data Analytics | Quality Engineering
+## About
 
----
+I am a Computer Science and Engineering graduate (2025) with professional software engineering experience at BristleTech. My interests span full-stack applications, retrieval-augmented AI, software quality and enterprise technology.
 
-## 🚀 Tech Stack
+- B.Tech in Computer Science and Engineering · CGPA 8.11/10
+- Based in India · Open to relocation and full-time opportunities
+- Currently learning SAP Basis, SAP HANA and enterprise system administration
 
-### Languages
-JavaScript  • Python • Java • SQL
+## Technical toolkit
 
-### Frontend
-React.js • React Native • HTML5 • CSS3 • Tailwind CSS 
+| Area | Technologies |
+|---|---|
+| Programming | Java, Python, JavaScript, TypeScript, SQL |
+| Frontend | React, Next.js, React Native, Tailwind CSS |
+| Backend | Node.js, Express, Spring Boot, FastAPI, REST APIs |
+| Data | MongoDB, Firebase, PostgreSQL, MySQL, SQLite |
+| AI | RAG, LangChain, LangGraph, FAISS, Gemini |
+| Quality | Playwright, Selenium, Pytest, Postman, API testing |
+| Cloud & delivery | AWS, Azure, Git, GitHub Actions |
+| Analytics | Power BI, SQL, Pandas |
 
-### Backend
-Node.js • Express.js • Spring Boot • FastAPI • REST APIs • Socket.IO
+## Professional experience
 
-### Databases
-MongoDB • PostgreSQL • MySQL • Firebase
+**BristleTech — Software Engineering | 2025–2026**
 
-### AI
-LLMs • Generative AI • RAG • LangChain  • AI Agents • Prompt Engineering • MCP • Vector Databases • FAISS  • Semantic Search • Google Gemini API 
+Worked on web and mobile applications, backend APIs, AI workflows, data reporting and software testing in collaborative development environments.
 
-### Data Analytics
-Power BI • Tableau • SQL Analytics • Dashboard Development • KPI Reporting • Data Visualization • Excel
+## Professional learning
 
-### Testing & QA
-Manual Testing • Functional Testing • Regression Testing • Unit Testing • End-to-End (E2E) Testing • User Acceptance Testing (UAT) • API Testing • PyTest • Postman • Debugging
+AWS Cloud Practitioner Essentials · SAP Learning courses · Ongoing study of enterprise technology and cloud administration.
 
-### Cloud & DevOps
- Git • GitHub • GitHub Actions • CI/CD 
+## Engineering approach
 
----
-
-## 💼 Experience
-
-### AI Engineer (Full Stack) — BristleTech
-**Sep 2025 – Present | Hyderabad**
-
-- Built scalable web and mobile applications using React, React Native, Node.js, Express.js, and Spring Boot.
-- Developed secure REST APIs and worked with MongoDB, PostgreSQL, MySQL, and Firebase.
-- Built AI-powered applications using RAG, LangChain, LangGraph, LLMs, and vector databases.
-- Developed business dashboards and performed SQL-based data analysis for operational reporting and KPIs.
-- Executed Manual, Functional, Regression, Unit, End-to-End (E2E), API, and UAT testing to ensure application quality.
-- Automated backend testing using PyTest and participated in CI/CD workflows using GitHub Actions.
-- Collaborated with cross-functional teams in Agile development environments.
+I value maintainable code, clear documentation, reproducible setup instructions, meaningful tests and transparent project limitations.
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 AI-Powered RAG Assistant
-**Python • FastAPI • LangChain • LangGraph • Gemini • FAISS**
-
-- Built a Retrieval-Augmented Generation (RAG) assistant for document intelligence.
-- Implemented document ingestion, embeddings, semantic search, and LLM-powered responses.
-- Developed FastAPI services for scalable AI workflows.
-
-### 📊 Business Analytics Dashboard
-**Power BI • SQL • PostgreSQL**
-
-- Built interactive dashboards for business reporting and KPI tracking.
-- Performed SQL analysis and created visualizations to support business decisions.
-
----
-
-## 🏢 Client Projects
-
-- 🛒 **ZipCart Groceries** — [Live Website](https://zipcartgroceries.com)
-- 🏏 **Shaankari Cricket Academy** — [Live Website](https://shaankaricricketacademy.com)
-- 🧘 **Gaman Rehab** — [Live Website](https://www.gamanrehab.com)
-- ⚡ **Mithra Energies** — [Live Website](https://mithraenergies.com)
-- 💼 **Leadora Systems** — [Live Website](https://www.leadorasystems.com)
-
----
-
-## 🎯 Core Expertise
-
-- Full Stack Development
-- AI Engineering
-- RAG Applications
-- AI Agents
-- Database Design
-- Data Analytics
-- Business Dashboards
-- Manual & Automated Testing
-- Quality Assurance
-- CI/CD
-- Agile Development
-
----
-
-## 📜 Certifications
-
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure Data Fundamentals (DP-900)
-- Google Gemini Enterprise Application
-- GitHub Copilot for Beginners
-- Google Data Analytics Professional Certificate
-- edX Professional Certificate – Communication Skills & Teamwork
-- NPTEL Certifications
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology – Computer Science & Engineering**
-
-Sree Venkateshwara College of Engineering
-**CGPA:** 8.11/10 • **Graduated:** April 2025
-
----
-
-## 📫 Connect
-
-📧 **Email:** gopireddymanvitha@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/gopireddymanvitha/
-
-💻 **GitHub:** https://github.com/Manvithagopireddy
-
-🌐 **Portfolio:** https://manvithagopireddy.github.io/Manvithaportfolio/
-
----
-
-<p align="center">
-  <i>Building scalable software, AI-powered applications, and data-driven solutions.</i>
-</p>
+<p align="center"><strong>Open to software engineering, AI and enterprise technology opportunities.</strong></p>
+<p align="center"><a href="https://www.linkedin.com/in/gopireddymanvitha/">Let's connect</a></p>
