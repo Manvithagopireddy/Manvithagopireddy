@@ -30,7 +30,7 @@ Node.js · Express · Jest · Supertest · Cucumber · Newman
 
 JWT-protected task API, integration testing, BDD and database validation.
 
-[API source](https://github.com/Manvithagopireddy/TestingPro/blob/main/src/app.js) · [Test suite](https://github.com/Manvithagopireddy/TestingPro/tree/main/tests) · [CI](https://github.com/Manvithagopireddy/TestingPro/actions)
+[API source](https://github.com/Manvithagopireddy/TestingPro/blob/main/src/app.js) · [Test suite](https://github.com/Manvithagopireddy/TestingPro/tree/main/tests) · [CI](https://github.com/Manvithagopireddy/TestingPro/actions) · [Case study](https://github.com/Manvithagopireddy/TestingPro/blob/main/docs/CASE_STUDY.md)
 
 </td></tr>
 <tr><td valign="top">
